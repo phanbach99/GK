@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Project ListView</string>
+    <string-array name="president_array">
+        <item>Dwight D.Eisenhover</item>
+        <item>John F.Kennedy</item>
+        <item>Lydon B.John son</item>
+        <item>Richard Nixon</item>
+        <item>Gerald Ford</item>
+        <item>Jummy Carter</item>
+        <item>Ronald Reagan</item>
+        <item>Bill Clinton</item>
+        <item>George W. Bush</item>
+        <item>Barack Obama</item>
+    </string-array>
+</resources>
+

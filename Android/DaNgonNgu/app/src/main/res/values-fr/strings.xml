@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Support multilingue</string>
+    <string name="welcome">Bienvenue</string>
+    <string name="email">Email</string>
+    <string name="password">Mot de passe</string>
+    <string name="login">Sidentifier</string>
+    <string name="signup">Vous navaz pas de compte? Sinscrise</string>
+    <string name="changelang">Changer de lange</string>
+</resources>
